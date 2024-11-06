@@ -5,9 +5,10 @@
 <div id="header" align="center">
 <img src="https://komarev.com/ghpvc/?username=Yaowarat16&style=flat-square&color=blue" alt="account counter"/>
 </div>
+
+
 👩‍💻 About Me :
 🏫 Studying Computer Science
 💻 I'm learning coding and web development in more diverse programming languages.
 💖 Motto: “Some tasks may be difficult. But the word difficult doesn't mean impossible."
 ✉️ You can contact us at yaowarat160248@gmail.com
--->
