@@ -5,12 +5,21 @@
 <div id="header" align="center">
 <img src="https://komarev.com/ghpvc/?username=Yaowarat16&style=flat-square&color=blue" alt="account counter"/>
 </div>
-👩‍💻 About Me :
 
--🏫 Studying Computer Science
+### 👩‍💻 About Me :
+
+-🏫 Study computer science University of Phayao
 
 -💻 I'm learning coding and web development in more diverse programming languages.
 
 -💖 Motto: “Some tasks may be difficult. But the word difficult doesn't mean impossible."
 
 -✉️ You can contact us at yaowarat160248@gmail.com
+### 🛠️ Skills :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" title="Python"  alt="Python" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" title="Figma"  alt="Figma" width="50" height="50"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" title="C"  alt="C" width="50" height="50"/>&nbsp;
+</div>
