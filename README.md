@@ -1,6 +1,6 @@
 ## Hi i'm Yaowarat 👋
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?cid=ecf05e473u8czm8xc9n0vnq1rtnwalq6ruu1rh0cdcrtlpc1&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="100"/>
 </div>
 
 
